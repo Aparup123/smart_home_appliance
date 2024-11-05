@@ -22,7 +22,7 @@ The system consists of a DHT11 sensor(to get the temperature and humidity data),
 
 ## Circuit diagram
 
-![circuit diagram](./resources/circuit_diagram.png)
+<img src="./resources/circuit_diagram.png" height=500>
 
 [Fritzing file](./resources/circuit.fzz)
 
@@ -40,11 +40,11 @@ The system consists of a DHT11 sensor(to get the temperature and humidity data),
 
 ## Blynk UI
 
-![Blynk UI](./resources/blynkUI.jpg)
+<img src="./resources/blynkUI.jpg" height=500>
 
 ## System image
 
-![System](./resources/system.jpg)
+<img src="./resources/system.jpg" height=500>
 
 ## Dependencies
 
