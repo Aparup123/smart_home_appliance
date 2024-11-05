@@ -40,11 +40,11 @@ The system consists of a DHT11 sensor(to get the temperature and humidity data),
 
 ## Blynk UI
 
-<img src="./resources/blynkUI.jpg" height=500>
+<img src="./resources/blynkUI.jpg">
 
 ## System image
 
-<img src="./resources/system.jpg" height=500>
+<img src="./resources/system.jpg">
 
 ## Dependencies
 
