@@ -22,7 +22,7 @@ The system consists of a DHT11 sensor(to get the temperature and humidity data),
 
 ## Circuit diagram
 
-<img src="./resources/circuit_diagram.png" height=500>
+<img src="./resources/circuit_diagram.png">
 
 [Fritzing file](./resources/circuit.fzz)
 
